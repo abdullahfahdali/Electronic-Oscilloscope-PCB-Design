@@ -4,39 +4,54 @@ A digital oscilloscope system designed using Proteus, including schematic design
 
 ## Project Overview
 
-This project involved the complete design and development of an oscilloscope circuit, starting from circuit schematic creation to PCB design and hardware implementation. The objective was to gain practical experience in electronic circuit design, PCB development, simulation, and hardware integration.
+This project involved the complete design and development of an electronic oscilloscope circuit, starting from circuit schematic creation to PCB design and hardware implementation. The objective was to gain practical experience in electronic circuit design, PCB development, simulation, and hardware integration.
 
 ## Tools Used
 
-- Proteus
-- PCB Design Tools
-- Electronic Components and Hardware
+* Proteus
+* PCB Design
+* Electronic Components
+* Hardware Prototyping
 
 ## Features
 
-- Complete schematic design
-- PCB layout development
-- 3D PCB visualization
-- Hardware implementation and testing
-- Electronic signal analysis
+* Complete schematic design
+* PCB layout development
+* 3D PCB visualization
+* Hardware implementation and testing
+* Circuit simulation and validation
 
 ## Documentation
 
-The project report is available in the Documentation folder.
+📄 Project Report:
+
+[Electronic Oscilloscope Project Report](Documentation/electronic-oscilloscope-project-report.pdf)
 
 ## Screenshots
 
 ### Schematic Design
+
 ![Schematic Design](Screenshots/Schematic%20Design.png)
 
 ### PCB Design
+
 ![PCB Design](Screenshots/PCB%20Design.png)
 
 ### 3D View
+
 ![3D View](Screenshots/3D%20View.png)
 
 ### Hardware Implementation
+
 ![Hardware Implementation](Screenshots/PCB_Hardware.jpeg)
+
+## Skills Demonstrated
+
+* Electronic Circuit Design
+* PCB Layout Design
+* Proteus Simulation
+* Hardware Prototyping
+* Testing and Troubleshooting
 
 ## Author
 
