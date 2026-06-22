@@ -1,4 +1,4 @@
-# Electronic Oscilloscope PCB Design
+# Electronic Oscillator PCB Design
 
 A digital oscilloscope system designed using Proteus, including schematic design, PCB layout, 3D visualization, and hardware implementation.
 
